@@ -230,6 +230,7 @@ Become a sponsor and get your logo on our README on Github with a link to your s
 <a href="https://opencollective.com/element/sponsor/29/website" target="_blank"><img src="https://opencollective.com/element/sponsor/29/avatar.svg"></a>
 
 ## Join Discusion Group
+// what's up? Test node
 
 Scan the QR code using [Dingtalk App](https://www.dingtalk.com/) to join in discusion group :
 
